@@ -1,0 +1,6 @@
+json5==0.8.5
+base58==2.1.0
+streamlit==0.75.0
+urllib3==1.24.2
+pandas==0.25.1
+easyquotation==0.7.4
